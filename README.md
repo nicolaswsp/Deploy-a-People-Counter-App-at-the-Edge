@@ -200,5 +200,3 @@ CAMERA_FEED_SERVER: "http://localhost:3004"
 ...
 MQTT_SERVER: "ws://localhost:3002"
 ```
-## Performance results
-The total number of people that appeared on the screen was six people, the duration for each member on screen was about 10.5, 20, 17.8, 10.7, 25.1, 11.5 seconds respectivelly from the first on to the last one. The probability threshold necessary to obtain good results was 0.35.
